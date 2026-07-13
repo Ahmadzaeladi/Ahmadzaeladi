@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ahmad Zaeladi
 
-**Full-Stack Developer | IT Student | Tech & System Logic Enthusiast**
+**Full-Stack Developer**
 
 I am a Full-Stack Developer with a strong focus on building robust backend architectures and designing modern, professional UI/UX for enterprise-level applications. Currently in my 6th semester, I actively balance my academic responsibilities, professional projects, and internship programs. 
 
