@@ -30,5 +30,9 @@
 </p>
 
 <p align="center">
-  <img src="./rpg-box.svg" alt="RPG Dialogue Box" width="100%">
+  <img src="./shooter.svg" alt="Tech Stack Shooter" width="100%">
+</p>
+
+<p align="center">
+  <img src="./terminal.svg" alt="Terminal Simulation" width="100%">
 </p>

@@ -4,10 +4,9 @@ const generateSVG = () => {
     const svgContent = `
     <svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
         <style>
-            @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
-            
             .text-retro {
-                font-family: 'Press Start 2P', monospace;
+                font-family: 'Courier New', Courier, monospace;
+                font-weight: bold;
                 fill: #ffffff;
             }
             .text-icon {
@@ -56,11 +55,16 @@ const generateSVG = () => {
                 0% { transform: translateX(850px) translateY(165px); }
                 100% { transform: translateX(-50px) translateY(165px); }
             }
+            @keyframes moveTarget5 {
+                0% { transform: translateX(850px) translateY(195px); }
+                100% { transform: translateX(-50px) translateY(195px); }
+            }
             
             .target-1 { animation: moveTarget1 3.5s linear infinite; }
             .target-2 { animation: moveTarget2 4s linear infinite 1s; }
             .target-3 { animation: moveTarget3 3s linear infinite 2s; }
             .target-4 { animation: moveTarget4 4.5s linear infinite 0.5s; }
+            .target-5 { animation: moveTarget5 3.8s linear infinite 1.5s; }
         </style>
 
         <!-- Background -->
@@ -117,6 +121,12 @@ const generateSVG = () => {
         <g class="target-4">
             <rect width="32" height="32" fill="#7952b3" rx="6" />
             <text x="16" y="24" class="text-icon" font-size="20" fill="#ffffff" text-anchor="middle">B</text>
+        </g>
+
+        <!-- TARGET 5: CodeIgniter 4 -->
+        <g class="target-5">
+            <rect width="45" height="32" fill="#ef4223" rx="6" />
+            <text x="22" y="22" class="text-icon" font-size="14" fill="#ffffff" text-anchor="middle">CI4</text>
         </g>
     </svg>
     `;
