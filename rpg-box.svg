@@ -1,0 +1,67 @@
+
+    <svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            /* Font bergaya retro/terminal */
+            @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+            
+            .text-retro {
+                font-family: 'Press Start 2P', monospace;
+                font-size: 12px;
+                fill: #ffffff;
+            }
+            
+            .highlight { fill: #4ade80; } /* Warna hijau untuk skill aktif */
+            .quest { fill: #facc15; } /* Warna kuning untuk quest */
+            
+            /* Animasi Kotak Dialog */
+            .dialog-box {
+                fill: rgba(15, 23, 42, 0.9);
+                stroke: #3b82f6;
+                stroke-width: 4;
+                rx: 10;
+                animation: pulse-border 2s infinite alternate;
+            }
+            
+            /* Animasi Efek Mengetik */
+            .typing-1 { animation: type 2s steps(40, end) forwards; white-space: nowrap; overflow: hidden; }
+            .typing-2 { animation: type 2s steps(40, end) 1.5s forwards; opacity: 0; }
+            .typing-3 { animation: type 2s steps(40, end) 3s forwards; opacity: 0; }
+            .typing-4 { animation: type 2s steps(40, end) 4.5s forwards; opacity: 0; }
+            
+            @keyframes pulse-border {
+                0% { stroke: #3b82f6; }
+                100% { stroke: #8b5cf6; }
+            }
+            
+            @keyframes type {
+                0% { width: 0; opacity: 1; }
+                1% { opacity: 1; }
+                100% { width: 100%; opacity: 1; }
+            }
+        </style>
+
+        <!-- Latar Belakang Kotak -->
+        <rect class="dialog-box" x="10" y="10" width="780" height="230" />
+        
+        <!-- Teks Beranimasi -->
+        <g transform="translate(30, 50)">
+            <text class="text-retro typing-1">Ahmad Zaeladi <tspan class="highlight">(Player Class: Full-Stack Developer)</tspan></text>
+        </g>
+        
+        <g transform="translate(30, 90)">
+            <text class="text-retro typing-2">LEVEL: 6th-SEM STUDENT @ PAMULANG UNIVERSITY</text>
+        </g>
+        
+        <g transform="translate(30, 130)">
+            <text class="text-retro typing-3">CURRENT QUEST: <tspan class="quest">COLLAB W/ PT PRAKERJA NUSANTARA</tspan></text>
+        </g>
+        
+        <g transform="translate(30, 170)">
+            <text class="text-retro typing-4">ABILITIES: NODE.JS, EXPRESS, POSTGRESQL, BOOTSTRAP 5</text>
+        </g>
+
+        <g transform="translate(30, 210)">
+            <text class="text-retro typing-4">CONTENT CREATOR: ANALOGY MASTER</text>
+        </g>
+    </svg>
+    
