@@ -10,8 +10,7 @@
 
 
 <p align="center">
-  🌍 Based in Indonesia | 🎓 6th-Semester Student at Pamulang University | 💼 Collaborating with <b>PT Prakerja Nusantara</b>
-</p>
+  🌍 Based in Indonesia | 🎓 6th-Semester Student at Pamulang University 
 
 ---
 
@@ -31,22 +30,3 @@
 </p>
 
 ---
-
-<h3 align="center">🚀 Featured Projects & Experience</h3>
-
-Here are some of the key systems I've architected and developed:
-
-*   **Enterprise CMS & Company Profile** <br>
-    An end-to-end web application and Content Management System built for PT Prakerja Nusantara to modernize their digital presence within an existing HRIS environment.
-*   **PPDB System Backend** <br>
-    A robust school enrollment backend architecture built with Node.js and Express, complete with comprehensive Swagger API documentation.
-*   **Attendance Aggregator System** <br>
-    A centralized database system designed to reliably synchronize fingerprint attendance data from multiple external partner outlets.
-*   **Automated Corporate Gallery** <br>
-    An internal indexing system for corporate documentation featuring content scheduling, search functionality, and time-based visibility constraints.
-*   **🎥 Digital Content Creation** <br>
-    Beyond coding, I create digital content exploring early adulthood, introversion, and translating daily life into IT/system logic analogies.
-
----
-
-
