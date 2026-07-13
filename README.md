@@ -49,22 +49,4 @@ Here are some of the key systems I've architected and developed:
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
 
-<!-- Animasi Statistik GitHub -->
-<p align="center">
-  <a href="https://github.com/Ahmadzaeladi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahmadzaeladi&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="GitHub Stats" />
-  </a>
-</p>
-
----
-
-<h3 align="center">🌐 Connect with Me</h3>
-
-<p align="center">
-  <a href="mailto:ahmadzaeladi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- Kamu bisa menambahkan badge LinkedIn atau platform lain di sini nantinya -->
-</p>
