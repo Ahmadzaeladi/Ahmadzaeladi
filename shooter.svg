@@ -1,7 +1,4 @@
-const fs = require('fs');
 
-const generateSVG = () => {
-    const svgContent = `
     <svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
@@ -119,10 +116,4 @@ const generateSVG = () => {
             <text x="16" y="24" class="text-icon" font-size="20" fill="#ffffff" text-anchor="middle">B</text>
         </g>
     </svg>
-    `;
-
-    fs.writeFileSync('shooter.svg', svgContent);
-    console.log('✅ Animasi Tech Stack Shooter SVG berhasil di-generate!');
-};
-
-generateSVG();
+    
