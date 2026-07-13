@@ -3,13 +3,11 @@
 <!-- Animasi Teks Berjalan -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;6th-Semester+Student;IT+%26+System+Logic+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-  I am a Full-Stack Developer with a strong focus on building robust backend architectures and designing modern, professional UI/UX for enterprise-level applications. Currently in my 6th semester, I actively balance my academic responsibilities, professional projects, and internship programs.
-</p>
+
 
 <p align="center">
   🌍 Based in Indonesia | 🎓 6th-Semester Student at Pamulang University | 💼 Collaborating with <b>PT Prakerja Nusantara</b>
@@ -53,10 +51,10 @@ Here are some of the key systems I've architected and developed:
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
-<!-- Animasi Statistik GitHub (Ubah USERNAME_GITHUB_KAMU dengan username aslimu) -->
+<!-- Animasi Statistik GitHub -->
 <p align="center">
-  <a href="https://github.com/USERNAME_GITHUB_KAMU">
-    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="GitHub Stats" />
+  <a href="https://github.com/Ahmadzaeladi">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ahmadzaeladi&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=777777" alt="GitHub Stats" />
   </a>
 </p>
 
