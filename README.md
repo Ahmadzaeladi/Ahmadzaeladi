@@ -29,4 +29,6 @@
   <i>Frontend: HTML/CSS, Bootstrap 5, Modern UI/UX Prototyping</i>
 </p>
 
----
+<p align="center">
+  <img src="./rpg-box.svg" alt="RPG Dialogue Box" width="100%">
+</p>
